@@ -1,0 +1,9 @@
+.Move{
+    font-size: 14px;
+}
+.Move .row{
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+}
+

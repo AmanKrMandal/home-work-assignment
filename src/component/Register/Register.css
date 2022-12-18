@@ -1,0 +1,21 @@
+.Register p{
+font-weight: 700;
+line-height: 14px;
+
+}
+.Register input::placeholder {
+    padding-left: 17px;
+}
+
+.Register button{
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 8px;
+    font-weight: 700;
+    color: #FFFFFF;
+    background: #F2C94C;
+    border: #F2C94C;
+    height: 56px;
+    width: 328px;
+    margin-top: 24px;
+    cursor: pointer;
+}  

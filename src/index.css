@@ -1,0 +1,25 @@
+
+html{
+    background-color: rgb(233, 233, 233);
+}
+button{
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 8px;
+    font-weight: 700;
+    color: #FFFFFF;
+    background: #F2C94C;
+    border: #F2C94C;
+    height: 56px;
+    width: 328px;
+    cursor: pointer;
+}  
+input{
+    width: 312px;
+    height: 56px;
+    background: #F4F4F4;
+    border: #F4F4F4;
+    border-radius: 8px;
+    }
+    input::placeholder {
+        padding-left: 17px;
+      }
